@@ -37,10 +37,3 @@ The EDA addressed questions like:
 >Which factors correlate most with higher or lower life expectancy?
 
 >How do different countries and regions compare?
-
-📁 Project_life_expectancy
-├── Data_Wrangling_Project_Starter.ipynb
-├── Life Expectancy Link.txt
-└── other files as needed
-✅ Status
-✅ Project completed and submitted to Udacity.
